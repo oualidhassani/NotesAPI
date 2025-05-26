@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/src/app/globals.css"],"sourcesContent":["* {\n  box-sizing: border-box;\n  padding: 0;\n  margin: 0;\n}\n\nhtml,\nbody {\n  max-width: 100vw;\n  overflow-x: hidden;\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", sans-serif;\n}\n\nbody {\n  color: #1e293b;\n  background: #f8fafc;\n}\n\na {\n  color: inherit;\n  text-decoration: none;\n}\n\nbutton {\n  font-family: inherit;\n}\n\ninput,\ntextarea {\n  font-family: inherit;\n}\n\n/* Scrollbar Styling */\n::-webkit-scrollbar {\n  width: 8px;\n}\n\n::-webkit-scrollbar-track {\n  background: #f1f5f9;\n}\n\n::-webkit-scrollbar-thumb {\n  background: #cbd5e1;\n  border-radius: 4px;\n}\n\n::-webkit-scrollbar-thumb:hover {\n  background: #94a3b8;\n}"],"names":[],"mappings":"AAAA;;;;;;AAMA;;;;;;AAOA;;;;;AAKA;;;;;AAKA;;;;AAUA;;;;AAIA;;;;AAIA;;;;;AAKA"}}]
+}
