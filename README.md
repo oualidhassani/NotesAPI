@@ -46,7 +46,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/notes-api.git
+git clone https://github.com/oualidhassani/NotesAPI.git
 cd notes-api
 Install Dependencies
 
